@@ -1,0 +1,4 @@
+#node modules is ignored by default
+# outputted files from hugo
+/public/**
+/resources/**
